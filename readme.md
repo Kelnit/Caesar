@@ -8,7 +8,7 @@
 * Handle Cold Start Challenge by Pick Some Genre and Recommend Similar Genre to User
 * Find Similar Movie With Jumanji
 > ![image](https://github.com/user-attachments/assets/f02b5b49-209b-49c3-bceb-b016bed07077)
-* Find Similar Movie With Children and Fantasy Genre
+* Tackle Cold Start Problem w/ Find Similar Movie With Children and Fantasy Genre
 > ![image](https://github.com/user-attachments/assets/1cecf684-0bfb-40eb-811f-b7838077b6b7)
 
 ### 👱‍♀️ Lab 03
